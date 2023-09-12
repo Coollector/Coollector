@@ -117,7 +117,7 @@
 <br>
 
 <a href="https://www.discordapp.com/users/783705226090643466" target="_blank">
-<img src="https://img.shields.io/badge/discord:  Coollector%236721-0078d7.svg?&style=for-the-badge&logo=discord&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/discord:  Coollector-0078d7.svg?&style=for-the-badge&logo=discord&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
 </a>
 <br>
 </div>
